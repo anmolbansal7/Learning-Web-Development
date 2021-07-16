@@ -1,2 +1,2 @@
-# web-dev-angela-yu
-Repository for 'The Complete Web Development Bootcamp' by Angela Yu on Udemy
+# Learning Web Development
+Repository to maintain the progress of How I Learn Web Development
